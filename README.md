@@ -22,13 +22,19 @@ Download the Android app from following link:
 
 [FrugalDoodle Android App](https://drive.google.com/drive/folders/1tZeJ2iWAuZdrm2y-G5xOCWxCi_HVADBE?usp=sharing)
 
-For executing the desktop app, the following libraries must be installed:
+For executing the desktop app, the following packages must be installed:
 * PyQt5
 * wireless
 * qrcode
 * access_points
 
-After installing run the following command in the desktop directory : 
+Use pip3 to install the requirements:
+
+```sh
+pip3 install pyqt5 wireless qrcode access_points
+```
+
+After installing run the following command in the desktop directory: 
 
 ```sh
 $ python3 frugaldoodle.py
