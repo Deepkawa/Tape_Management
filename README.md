@@ -1,5 +1,5 @@
 <p align="center">
-  <img width=300px src="https://goo.gl/U4q9E5" alt="FrugalDoodle">
+  <img width=300px src="https://goo.gl/Z6Xc2m">
  </p>
 Team O(1) submission for Mumbai Hackathon 2018.
 
