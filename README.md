@@ -36,7 +36,7 @@ For executing the desktop app, the following packages must be installed:
 Use pip3 to install the requirements:
 
 ```sh
-pip3 install pyqt5 wireless qrcode access_points
+$ pip3 install pyqt5 wireless qrcode access_points
 ```
 
 After installing run the following command in the desktop directory: 
