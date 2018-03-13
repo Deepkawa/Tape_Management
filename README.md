@@ -17,6 +17,10 @@ The user draws on any flat surface with a pen/pencil having detectable coloured 
 * Pen/Pencil with a coloured tip
 
 ## Installation
+Download the Android app from following link:
+
+[FrugalDoodle Android App](https://drive.google.com/drive/folders/1tZeJ2iWAuZdrm2y-G5xOCWxCi_HVADBE?usp=sharing)
+
 For executing the desktop app, the following libraries must be installed:
 * PyQt5
 * wireless
