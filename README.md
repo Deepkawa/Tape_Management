@@ -1,7 +1,7 @@
 <p align="center">
   <img width=300px src="https://goo.gl/Z6Xc2m">
  </p>
-<h3 align="center">Team O(1) submission for Mumbai Hackathon 2018.</h3>
+<h3 align="center">Doodle anywhere,anytime with anything</h3>
 
 ## Motivation
 Whiteboard screencasting is all the rage for creating educational videos like those featured in the Khan Academy.
@@ -28,7 +28,6 @@ After installing run the following command in the desktop directory :
 ```sh
       $ python3 frugaldoodle.py
 ```
-:
 
 ## Technologies
 * OpenCV
