@@ -1,7 +1,7 @@
 <p align="center">
   <img width=300px src="https://goo.gl/Z6Xc2m">
  </p>
-Team O(1) submission for Mumbai Hackathon 2018.
+<h3 align="center">Team O(1) submission for Mumbai Hackathon 2018.</h3>
 
 ## Motivation
 Whiteboard screencasting is all the rage for creating educational videos like those featured in the Khan Academy.
@@ -18,7 +18,9 @@ The user draws on any flat surface with a pen/pencil having detectable coloured 
 
 ## Installation
 For installation of the desktop app, run the following command:
-`python frugaldoodle.py`
+```sh
+      $ python3 frugaldoodle.py
+```
 in the dektop directory
 The following libraries must be installed:
 * PyQt5
